@@ -1,4 +1,6 @@
-# Exposé
+# Exposé: 
+Automatic Data Recovery and Interactive Sonification for Screen-Reader Accessibility of Scientific Visualisations
+
 ## 1. Background and Context
 <p>PDF is currently one of the most common formats for scientific publications. However, PDFs can pose significant accessibility challenges for blind and low-vision (BLV) readers, particularly when used with screen readers (Wang et al. 2021). Screen readers are a primary tool used by BLV researchers to access scientific literature (Katsnelson 2023), making the accessibility of scientific publications an important issue for accessible scientific communication.</p>
 <p>One approach to improving accessibility is to provide scientific publications in tagged HTML in addition to PDF or to convert existing publications into HTML. Screen readers generally work well with appropriately structured HTML documents. One tool following this approach is SciA11y, which converts scientific PDFs into tagged HTML and enables interactive screen-reader-based access to their contents (Wang et al. 2021). The tool demonstrates the potential of integrating accessible scientific literature more directly into the workflow of BLV researchers. However, SciA11y and similar approaches still face difficulties with certain types of content, particularly tables, figures, and mathematical formulas (Wang et al. 2021).</p>
