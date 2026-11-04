@@ -1,0 +1,2 @@
+# Use Case
+A *BLV researcher* opens a scientific publication in its HTML format in the browser (Chrome, Firefox?). They activate the extension, which recognises the article or requires the link / doi. Their screen reader reads the article and, upon hitting a figure that is recognised as a valid chart type, informs them of the option to sonify the figure. 
